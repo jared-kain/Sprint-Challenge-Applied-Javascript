@@ -29,9 +29,4 @@ let tabCreator = (string) =>{
   topics.appendChild(tab)
 }
 
-
-
-
-
-
 /// END TABS COMPONENT
